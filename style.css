@@ -52,6 +52,7 @@ button{
 padding:10px;
 font-weight:bold;
 background:#2C3E50;
+font-size:20px;
 color:#ffffff;
 border-radius:20px;
 border-color:white;
@@ -66,4 +67,5 @@ grid-column-start:3;
 
 .plus{
 color:aqua;
+
 }
